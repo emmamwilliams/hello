@@ -1,0 +1,16 @@
+/**
+ * Author: Emma Williams
+ * Date: 2021/08/26
+ * 
+ * program that prints name
+ * 
+ */
+ #include <stdlib.h>
+ #include <stdio.h>
+ 
+ int main(int argc, char **argv) {
+     
+     printf("Emma Williams\n");
+     
+     return 0;
+ }
