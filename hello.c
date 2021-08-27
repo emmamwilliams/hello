@@ -13,6 +13,9 @@
      printf("Emma Williams!\n");
 
      printf("Electrical Engineering");
+     
+     printf("Olanrewaju Bakare");
+     printf("Computer Science")
 
      return 0;
  }
