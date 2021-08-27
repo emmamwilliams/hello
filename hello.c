@@ -15,7 +15,7 @@
      printf("Electrical Engineering");
      
      printf("Olanrewaju Bakare");
-     printf("Computer Science")
+     printf("Computer Science");
 
      return 0;
  }
